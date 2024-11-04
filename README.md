@@ -29,10 +29,10 @@ S/N	First Name	Surname	Full Name
   # This where we used some lines of basic code or Quries and DAX Expresion;
 `````SQL``````
   SELECT, * FROM TABLE
-  CASE WHEN
-  TRUNCATE
-  UPDATE
-  DELETE
-  INSERT
-  JOINED
-  GROUP 
+  CASE WHEN;
+  TRUNCATE;
+  UPDATE;
+  DELETE;
+  INSERT;
+  JOINED;
+  GROUP. 
