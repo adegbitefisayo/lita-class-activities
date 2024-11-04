@@ -31,5 +31,8 @@ S/N	First Name	Surname	Full Name
   SELECT, * FROM TABLE
   CASE WHEN
   TRUNCATE
+  UPDATE
+  DELETE
+  INSERT
   JOINED
   GROUP 
