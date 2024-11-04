@@ -36,3 +36,8 @@ S/N	First Name	Surname	Full Name
   INSERT;
   JOINED;
   GROUP. 
+
+  * Power bi
+# data visualization
+## data cleaning
+### DAX expression
