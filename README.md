@@ -44,3 +44,5 @@ S/N	First Name	Surname	Full Name
 
 ## data visualization
 ![barchat](https://github.com/user-attachments/assets/a8e31bd1-6c76-4910-86c6-0a85a9db022c)
+
+![pie chartPNG](https://github.com/user-attachments/assets/f51c6946-fc6d-4e83-8598-8659aafb6989)
